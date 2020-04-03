@@ -60,6 +60,6 @@ author: george42
 Below that, get writing!
 ## Using GitHub—Part 2
 ### Step Five: Commiting your changes
-Go back to GitHub Desktop and go to the "# Uncomitted Changes" tab. Now click the new branch button. <img src="branch-icon.png"> Give it a descriptive name, like `approval-post`, or something, that <b>relates to what you are adding.</b> A text box should pop up and you can make a descriptive summaray, like `Added a post saying we were approved`, and, if you want, an extanded description. Click "commit to (your-branch).
+Go back to GitHub Desktop and go to the "# Uncomitted Changes" tab. Now click the new branch button. <img src="https://cdn.iconscout.com/icon/free/png-256/git-2-433255.png" alt="Git Branch" width="30px"> Give it a descriptive name, like `approval-post`, or something, that <b>relates to what you are adding.</b> A text box should pop up and you can make a descriptive summaray, like `Added a post saying we were approved`, and, if you want, an extanded description. Click "commit to (your-branch).
 ### Step Six: Making a pull request (when you are ready to publish changes)
 Click "Pull Request" in the top right. Give it a nice title and description, and "click send pull request." If a big scary error message pops up, click Sync a little to the left. Then, when the president approves it, it will be added to the site.
